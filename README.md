@@ -1,4 +1,4 @@
-## Hi there 👋
+## Video Game Developer 🐢
 
 I'm currently learning C++
 <!--
